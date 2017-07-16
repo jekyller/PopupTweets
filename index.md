@@ -15,6 +15,12 @@ This is a plugin that you can put a popup panel that holds your tweets
 <a class="twitter-timeline" href="https://twitter.com/junlulocky">Tweets by junlulocky</a> 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ```
+
+- add css file to your own folder
+
+```
+<link rel="stylesheet" href="{{ '/assets/css/junpopup.css?v=' | append: site.github.build_revision | relative_url }}"> 
+```
     
 - Add the following code to your own website
 
