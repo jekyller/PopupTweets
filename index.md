@@ -5,6 +5,13 @@ layout: default
 ## Minimal plugin for popup tweet
 This is a plugin that you can put a popup panel that holds your tweets
 
+### Demo
+
+`Here is a demo`_ of `sample effect` 
+
+![Demo](/demo/web.gif)
+
+
 ### Add popup tweet in your web 
 
 - Put **poptweet.html** under the _includes folder of your Jekyll project.
