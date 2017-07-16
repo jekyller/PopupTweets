@@ -1,6 +1,8 @@
 title: Popup tweets
 description: Minimal plugin for popup tweets window
 show_downloads: true
+baseurl: '/PopupTweets' #change it according to your repository name
+
 
 code: https://github.com/junlulocky/PopupTweets
 zip_url: https://github.com/junlulocky/PopupTweets
