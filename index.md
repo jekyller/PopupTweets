@@ -19,7 +19,7 @@ This is a plugin that you can put a popup panel that holds your tweets
 - add css file to your own folder
 
 ```
-/assets/css/junpopup.css
+'junpopup.css'
 ```
     
 - Add the following code to your own website
