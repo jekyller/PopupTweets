@@ -34,6 +34,11 @@ This is a plugin that you can put a popup panel that holds your tweets
 include /poptweet.html 
 ```
 
-### References
+
+## Author
+
+- [Locky](https://github.com/junlulocky)
+
+## References
 
 - [Jekyll minimal theme](https://github.com/pages-themes/minimal)
